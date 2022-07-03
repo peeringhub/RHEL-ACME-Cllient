@@ -1,4 +1,4 @@
-# DNL command-line ACME client #
+# Peeringhub command-line ACME client #
 
 ## Installation ##
 ------------------
